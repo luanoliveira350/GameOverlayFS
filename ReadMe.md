@@ -1,5 +1,7 @@
 This script exploit the  CVE-2023-2640 and CVE-2023-32629 for vulnerability on OverlayFS that affected some versions of Ubuntu.
 
+Tested on Ubuntu 20.04 with kernel 5.4.0.
+
 ## How to Use
 
 Download the file Gameoverlay.sh and with a normal user (no root) and change the permission for execution:
